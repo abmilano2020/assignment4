@@ -1,4 +1,4 @@
-### Codebook  
+### Codebook   
 <p>&nbsp;</p>
 #### The first two columns of the tidy data set *tidy_data.txt* show:  
 
