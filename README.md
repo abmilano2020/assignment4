@@ -16,4 +16,4 @@ output:
 
 ### Good job peer !   
 ### Now you have a tidy data set saved as *tidy_data.txt* in your working directory.      
-### Please also have a look at the *codebook.md* for the manipulations steps.  
+### Please also have a look at the *CodeBook.md* for the manipulations steps.  
