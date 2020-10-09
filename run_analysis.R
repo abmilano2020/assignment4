@@ -22,7 +22,7 @@ train <- cbind(subject_train, training_labels, training_set)
 test_set <- read.table("UCI HAR Dataset\\test\\X_test.txt")[measurements_rows]
 test_labels <- read.table("UCI HAR Dataset\\test\\Y_test.txt")
 subject_test <- read.table("UCI HAR Dataset\\test\\subject_test.txt")
-test <- cbind(subject_test, test_labels, test_set)
+test <- cbind(subject_test, test_labels, test_set) 
 
 ###step 5: merging training and test data
 joint_data <- rbind(train, test)
